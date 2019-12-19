@@ -1,0 +1,11 @@
+{
+    "name": "mrpaulphan/beam",
+    "description": "Wordpress Starter theme using Twig",
+    "authors": [
+        {
+            "name": "mrpaulphan",
+            "email": "paul@mrpaulphan.com"
+        }
+    ],
+    "require": {}
+}
